@@ -1,0 +1,29 @@
+@font-face {
+    src: url("Corleone.ttf");
+    font-family: Corleone;
+}
+
+@font-face {
+    src: url("Sinethar.otf");
+    font-family: Sinethar;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: Sinethar;
+    font-size: 250px;
+    color: blueviolet;
+}
+body {
+    background-image: url(giphy.gif);
+    background-size: cover;
+}
+#visit {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-family: Sinethar;
+    color: greenyellow;
+    
+}
